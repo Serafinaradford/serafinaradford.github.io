@@ -202,7 +202,7 @@ color: var(--kacky)
     color: var(--base100);
     border-radius: 100%;
   }
-  @media only screen and( width <700 px){
+  @media only screen and(width <700px){
     h1{
       font-size: 50px;
     }
