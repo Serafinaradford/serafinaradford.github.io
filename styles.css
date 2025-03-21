@@ -160,7 +160,8 @@ color: var(--kacky)
   
   
   #contact h1{
-    margin-top: 70px;
+    margin-top: 300px;
+
   }
   #contact .question{
     color: var(--base100);
